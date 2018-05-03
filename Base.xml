@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><hospital><patient><firstName>Анатолий</firstName><secondName>Спевак</secondName><birthday>1991-10-12</birthday><healthy>true</healthy></patient><patient><firstName>Андрей</firstName><secondName>Белевич</secondName><birthday>1984-03-01</birthday><healthy>false</healthy></patient></hospital>
